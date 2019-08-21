@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+tensorflow = "==1.13.1"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
