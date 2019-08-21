@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 tensorflow = "==1.13.1"
 pandas = "*"
+matplotlib = "*"
+spyder = "*"
 
 [requires]
 python_version = "3.6"
